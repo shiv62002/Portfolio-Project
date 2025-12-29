@@ -1,3 +1,3 @@
-# shiv62002.github.io
+# Personal Portfolio
 
-This is a personal portfolio showing my projects, experiences, and accomplishments on an online webpage.  
+This is a personal portfolio showing my projects, experiences, and accomplishments on an online webpage: [View Portfolio](https://shiv62002.github.io)
