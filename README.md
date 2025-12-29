@@ -1,1 +1,1 @@
-This is a personal portfolio showing my projects, experiences, and accomplishments on an online webpage: [View Portfolio](https://shiv62002.github.io/)
+This is a personal portfolio showing my projects, experiences, and accomplishments on an online webpage: [shiv62002.github.io](https://shiv62002.github.io/)
